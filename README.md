@@ -35,8 +35,10 @@ task_2/
 ├── gui.py                         # Tkinter GUI
 ├── haarcascade_frontalface_default.xml
 ├── mobilenet_v2_weights_tf_dim_ordering_tf_kernels_1.0_224_no_top.h5
+
 ├── nationality_encoder.pkl
 ├── nationality_model.keras        # Main CNN model for nationality/age
 ├── yolov8n.pt                     # YOLOv8 model for torso detection
 ├── report.pdf                     # Final report
 └── README.md                      # This file
+google drive link : https://drive.google.com/file/d/1N1GhZFJ-_gEgbpJ-Sa_hrW-zWqn70y-C/view?usp=drive_link

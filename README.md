@@ -15,6 +15,8 @@ This project is a real-time face analysis system that predicts **nationality**, 
 - **Age Prediction** using a regression head from the nationality model.
 - **Dress Color Detection** using YOLOv8 for person detection and KMeans for clustering colors.
 - **GUI** built with Tkinter supporting image upload and webcam.
+## 📁 Google Drive Link
+google drive link : https://drive.google.com/file/d/1N1GhZFJ-_gEgbpJ-Sa_hrW-zWqn70y-C/view?usp=drive_link
 
 ## 📁 Folder Structure
 
@@ -41,5 +43,3 @@ task_2/
 ├── yolov8n.pt                     # YOLOv8 model for torso detection
 ├── report.pdf                     # Final report
 └── README.md                      # This file
-## 📁 Google Drive Link
-google drive link : https://drive.google.com/file/d/1N1GhZFJ-_gEgbpJ-Sa_hrW-zWqn70y-C/view?usp=drive_link

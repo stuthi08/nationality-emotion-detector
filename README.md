@@ -41,4 +41,5 @@ task_2/
 ├── yolov8n.pt                     # YOLOv8 model for torso detection
 ├── report.pdf                     # Final report
 └── README.md                      # This file
+## 📁 Google Drive Link
 google drive link : https://drive.google.com/file/d/1N1GhZFJ-_gEgbpJ-Sa_hrW-zWqn70y-C/view?usp=drive_link
